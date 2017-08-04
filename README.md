@@ -1,3 +1,3 @@
-# Hello-World
-My first repository
-Just trying to make a feature bruh!!
+# Calculator
+My second repository
+Calculator...with some usual functions
